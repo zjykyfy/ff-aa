@@ -11,14 +11,14 @@
 CNAME
 README.md
 *.yangfeiyue.us.kg
-*.fo.yangfeiyue.us.kg
+*.fa.yangfeiyue.us.kg
 
 
 # Ignore CNAME file#
 ###################
 CNAME
 README.md
-*.fo.yangfeiyue.us.kg
+*.fa.yangfeiyue.us.kg
 *.yangfeiyue.us.kg
 
 
@@ -64,7 +64,7 @@ ehthumbs.db
 Thumbs.db
 CNAME
 README.md
-*.fo.yangfeiyue.us.kg
+*.fa.yangfeiyue.us.kg
 
 # text #
 ######################
@@ -72,8 +72,8 @@ README.md
 *.md
 CNAME
 README.md
-*.fo.yangfeiyue.us.kg
-
+*.fa.yangfeiyue.us.kg
+fa.yangfeiyue.us.kg
 
 # Ignore CNAME file
 CNAME
