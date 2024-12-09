@@ -36,7 +36,7 @@ README.md
 *.tar
 *.zip
 CNAME
-.md
+README.md
 yangfeiyue.us.kg
 
 # Logs and databases #
@@ -47,7 +47,7 @@ yangfeiyue.us.kg
 *.sql
 *.sqlite
 CNAME
-.md
+README.md
 yangfeiyue.us.kg
 
 # OS generated files #
@@ -62,7 +62,7 @@ yangfeiyue.us.kg
 ehthumbs.db
 Thumbs.db
 CNAME
-.md
+README.md
 fa.yangfeiyue.us.kg
 
 # text #
@@ -70,5 +70,5 @@ fa.yangfeiyue.us.kg
 *.txt
 *.md
 CNAME
-.md
+README.md
 fa.yangfeiyue.us.kg
