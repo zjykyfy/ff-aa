@@ -1,3 +1,4 @@
+50.web.it5000.com:8000
 fxhosserver.it5000.com:8000
 uxjsu823.72.web.it5000.com:8000
 video.it5000.com:8000
